@@ -4,7 +4,7 @@ MediTrack MR is a premium, visual-first sales tracking and doctor relationship p
 
 ## 🚀 Live Demo & Deployment
 - **Live Vercel URL**: `https://meditrack-portfolio-demo.vercel.app` (Substitute with your live Vercel URL once deployed)
-- **GitHub Repository**: `https://github.com/NIKHILSHUKLA5689/meditrack-portfolio-demo.git`
+- **GitHub Repository**: `https://github.com/Nikhil5689/meditrack-portfolio-demo.git`
 
 ---
 
@@ -47,7 +47,7 @@ To make this application instantly shareable and interactive in your developer p
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/NIKHILSHUKLA5689/meditrack-portfolio-demo.git
+   git clone https://github.com/Nikhil5689/meditrack-portfolio-demo.git
    cd meditrack-portfolio-demo
    ```
 
